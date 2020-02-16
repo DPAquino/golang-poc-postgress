@@ -1,0 +1,9 @@
+database:    
+  host: localhost
+  port: 5432
+  user: postgres
+  password: admin
+  dbname: dpaquino
+
+server:
+  address: 8080
